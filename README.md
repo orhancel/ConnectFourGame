@@ -8,15 +8,15 @@ r
 9
 5
 
-<br> a b c d e<br>
-<br> . . . . .<br>
-* . . . . .
-* . . . . .
-* . . . . .
-* . . . . .
-* . . . . .
-* . . . . .
-* . . . . .
-* . . . . .
+<pre> a b c d e </pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
+<pre> . . . . .</pre>
 
 Then use letters shown above to play the game.
