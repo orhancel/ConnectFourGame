@@ -4,11 +4,12 @@ Just enter R and use regular game type.Others were for assignment.They don't rea
 
 
 Example use:
+<pre>
 r
 9
 5
 
-<pre> a b c d e 
+ a b c d e 
  . . . . .
  . . . . .
  . . . . .
