@@ -5,10 +5,11 @@ Just enter R and use regular game type.Others were for assignment.They don't rea
 
 Example use:
 r
-8
+9
 5
 
 a b c d e
+. . . . .
 . . . . .
 . . . . .
 . . . . .
